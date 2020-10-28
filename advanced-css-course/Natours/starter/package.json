@@ -4,12 +4,9 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "node-sass": "node-sass sass/main.scss css/style.css -w"
+    "node-sass": "sass sass/main.scss css/style.css --watch"
   },
   "keywords": [],
   "author": "",
-  "license": "ISC",
-  "devDependencies": {
-    "node-sass": "^4.14.1"
-  }
+  "license": "ISC"
 }
