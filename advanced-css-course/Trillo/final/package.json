@@ -1,6 +1,7 @@
 {
   "name": "Trillo",
   "version": "1.0.0",
+  "homepage": "https://lingchen4.github.io/CSS-Trillo-Flex",
   "description": "trillo app",
   "main": "index.js",
   "scripts": {
