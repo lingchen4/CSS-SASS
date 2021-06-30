@@ -2,6 +2,7 @@
   "name": "natours",
   "version": "1.0.0",
   "description": "Landing page for natours",
+  "homepage": "https://lingchen4.github.io/natours",
   "main": "index.js",
   "scripts": {
     "watch:sass": "node-sass sass/main.scss css/style.css -w",
