@@ -1,0 +1,7 @@
+#!/bin/bash
+
+# Copy all files in folder "a" to folder "b"
+cp -r ../githooks/* ../.git/hooks/
+
+# Make all files in folder "b" executable, except for "abc"
+find ../.git/hooks/ -type f -exec chmod +x {} \;
